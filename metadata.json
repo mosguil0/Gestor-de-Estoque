@@ -1,0 +1,8 @@
+{
+  "name": "Gestor de Estoque Inteligente",
+  "description": "Controle Inteligente de Estoque conectado ao Firebase, validado e otimizado para testes no Contato Pet Center.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
